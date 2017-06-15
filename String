@@ -1,0 +1,12 @@
+String is an Immutable Object.When we are created an Immutable object, we could not change it's state.Object had state, behaviour and properties.With the help of Immutablity we can 
+working out our object in safe way.
+String is one of the most important Java Class in Java Programming Language.String can be used for different kind of architecture purposes.
+String is thread safe.With the help of Thread Safety feature, we can handle our any kind of issues in String.
+Another important point about String is that, String is final in Java.String class can be working out with the help of StringBuffer and StringBuilder
+classes.
+String is used for Connection purposes.String can be working out for various kind of connection purposes.String is only accessible with one to
+many classes in Java.String can be used for Synchronized purposes also.With the help of Synchronization,String can be used for different times
+and provide very useful information to String class in Java.Mutual Exclusion operation, try and wait process can easily be working out on String
+class.
+String is very much related to Garbage Collection process.GC is one of the most important concept in Java Programming Language.
+String is used for DataBase Connection also.
