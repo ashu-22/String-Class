@@ -1,0 +1,19 @@
+public class Solution
+{
+public static void main(String[] args)
+{
+String str = "Shibun";
+if(str > 1)
+{
+System.out.println("Shibun");
+}
+else(str < 1)
+{
+System.out.println("nubihS");
+}
+else if(str == 1)
+{
+System.out.println("Shibun");
+}
+}
+}
