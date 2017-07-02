@@ -1,0 +1,20 @@
+package pkg;
+public class Solution
+{
+public static void main(String[] args)
+{
+String str = new String("abc");
+if(abc > str)
+{
+System.out.print("String");
+}
+else if(abc < str)
+{
+System.out.print("abc");
+}
+else (abc == str)
+{
+System.out.print("bc");
+}
+}
+}
