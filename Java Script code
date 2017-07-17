@@ -1,0 +1,4 @@
+var a = "String";
+var b = "gnirts";
+console.log("a & b:");
+console.log("b & a:");
